@@ -1,2 +1,3 @@
 name: hikariumeno
 twitter: pikaccchu_d
+likes: cooking(ex.curry)
